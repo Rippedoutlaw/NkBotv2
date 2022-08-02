@@ -1,0 +1,36 @@
+{
+  "ownerNumber": ["6283819926835@s.whatsapp.net"],
+  "ownerName": "Nk Store",
+  "botName": "NKBOT",
+  "sessionName": "session",
+  "pathimg": "./media/thumb.jpg",
+  "FakeNya": "NKBOT © 2022",
+
+  "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
+  "textBarisDonate1": "Dana : 0838-1992-6835",
+  "textBarisDonate2": "Ovo : 0838-1992-6835",
+  "textBarisDonate3": "Gopay : 0838-1992-6835",
+  "textBarisDonate4": "Pulsa : 0838-1992-6835",
+  
+  "ButtonTextMenu1": "Instagram Owner",
+  "ButtonTextMenu2": "Group WhatsApp",
+  "quickReplyButton3": "Rules",
+  "quickReplyButton4": "Donasi",
+  "quickReplyButton5": "Dashboard",
+  
+  "ButtonMenuLink1": "https://instagram.com/mohamadhikami_",
+  "ButtonMenuLink2": "https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3Buq",
+  "displayTextMenu3": "rules",
+  "displayTextMenu4": "donasi",
+  "displayTextMenu5": "dashboard",
+  
+  "simbolMenuAtas": "❐",
+  "simbolMenuBawah": "•",
+  
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
